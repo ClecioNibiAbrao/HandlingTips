@@ -1,5 +1,1 @@
-# git course
-
-este é um repositório.
-
-saiba mais depois....
+#primeiro repositório
